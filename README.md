@@ -1,2 +1,3 @@
-# dvbi
-For Data and Visualisation in BI course
+# Hello World
+This is my first repository.
+I am looking forward to learning more.
